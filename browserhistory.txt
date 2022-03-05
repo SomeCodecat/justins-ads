@@ -1,1 +1,2 @@
-142.250.186.78
+142.250.186.78 doubleclick.net
+2a00:1450:4001:831::200e doubleclick.net
