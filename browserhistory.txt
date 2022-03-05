@@ -1,2 +1,8 @@
 doubleclick.net
 googleads.g.doubleclick.net
+c.amazon-adsystem.com
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
+www.googletagmanager.com
+www.googletagservices.com
+ads.pubmatic.com
