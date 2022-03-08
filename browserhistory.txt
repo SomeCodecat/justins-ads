@@ -1,3 +1,4 @@
+g.doubleclick.net
 doubleclick.net
 googleads.g.doubleclick.net
 c.amazon-adsystem.com
