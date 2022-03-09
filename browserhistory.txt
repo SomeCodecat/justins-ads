@@ -7,3 +7,4 @@ pagead2.googlesyndication.com
 www.googletagmanager.com
 www.googletagservices.com
 ads.pubmatic.com
+aax-eu.amazon-adsystem.com
